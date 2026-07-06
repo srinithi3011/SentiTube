@@ -1,8 +1,0 @@
-SENTITUBE FINAL REPORT
-
-Total Comments: 50
-Positive: 16
-Negative: 4
-Neutral: 30
-
-Creator Health Score: 74.0
