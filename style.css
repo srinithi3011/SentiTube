@@ -1,0 +1,155 @@
+/* ===========================
+   SentiTube Dark AI Theme
+=========================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+html, body, [class*="css"]{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Hide Streamlit Branding */
+#MainMenu{
+    visibility:visible;
+}
+
+footer{
+    visibility:visible;
+}
+
+header{
+    visibility:visible;
+}
+
+/* Background */
+.stApp{
+
+background:
+linear-gradient(
+135deg,
+#0f172a,
+#111827,
+#1e293b
+);
+
+color:white;
+
+}
+
+/* Sidebar */
+
+section[data-testid="stSidebar"]{
+
+background:#111827;
+
+border-right:1px solid #374151;
+
+}
+
+/* Titles */
+
+h1{
+
+color:white;
+
+font-weight:700;
+
+}
+
+h2{
+
+color:#60A5FA;
+
+}
+
+h3{
+
+color:white;
+
+}
+
+/* Buttons */
+
+.stButton>button{
+
+background:linear-gradient(90deg,#2563EB,#1D4ED8);
+
+color:white;
+
+border:none;
+
+border-radius:15px;
+
+padding:12px;
+
+font-size:18px;
+
+font-weight:bold;
+
+transition:0.3s;
+
+}
+
+.stButton>button:hover{
+
+transform:scale(1.04);
+
+box-shadow:0px 0px 20px #2563EB;
+
+}
+
+/* Input Box */
+
+.stTextInput input{
+
+background:#1F2937;
+
+color:white;
+
+border-radius:12px;
+
+border:1px solid #3B82F6;
+
+}
+
+/* Metrics */
+
+div[data-testid="metric-container"]{
+
+background:#1F2937;
+
+padding:20px;
+
+border-radius:20px;
+
+box-shadow:0 0 15px rgba(0,0,0,0.4);
+
+}
+
+/* DataFrame */
+
+[data-testid="stDataFrame"]{
+
+background:#111827;
+
+border-radius:15px;
+
+}
+
+/* Tabs */
+
+button[data-baseweb="tab"]{
+
+font-size:18px;
+
+font-weight:bold;
+
+}
+
+/* Progress */
+
+.stProgress > div > div{
+
+background:#2563EB;
+
+}
