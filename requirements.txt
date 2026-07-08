@@ -1,4 +1,0 @@
-pandas
-textblob
-matplotlib
-google-api-python-client
