@@ -72,48 +72,6 @@ SentiTube/
 │
 └── README.md
 ```
-
----
-
-🚀 Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/srinithi3011/SentiTube.git
-```
-
-Go to the project folder:
-
-```bash
-cd SentiTube
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the application:
-
-```bash
-streamlit run app.py
-```
-
----
- 📸 Screenshots
-
-Add screenshots of:
-
-- 🏠 Home Page
-- 📊 Dashboard
-- 💬 Comment Explorer
-- 🤖 AI Insights
-- 📄 PDF Report
-
----
-
 🎯 Future Enhancements
 
 - Multi-language sentiment analysis
