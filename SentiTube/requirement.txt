@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+wordcloud
+reportlab
+google-api-python-client
+vaderSentiment
+transformers
+torch
