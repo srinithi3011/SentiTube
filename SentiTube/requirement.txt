@@ -1,8 +1,0 @@
-streamlit
-pandas
-matplotlib
-wordcloud
-reportlab
-vaderSentiment
-google-api-python-client
-textblob
