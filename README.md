@@ -82,16 +82,3 @@ SentiTube/
 - Interactive visual dashboards
 - Machine Learning-based sentiment models
 
----
-
-👩‍💻 Developer
-
-Srinithi J
-
-B.Tech – Computer Science and Engineering (Artificial Intelligence & Data Science)
-
----
-
-📜 License
-
-This project is developed for educational and learning purposes.
